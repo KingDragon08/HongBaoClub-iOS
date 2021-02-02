@@ -1,0 +1,109 @@
+/* 
+  InfoPlist.strings
+  WildFireChat
+
+  Created by Heavyrain.lee on 2019/9/16.
+  Copyright © 2019 WildFireChat. All rights reserved.
+*/
+CFBundleName="HongBao Club";
+CFBundleDisplayName="HongBao Club";
+Message="Tin";
+Contact="liên lạc";
+Me="Tôi";
+Discover="tìm";
+Settings="Thiết Lập";
+Chatroom="phòng chat";
+DevDocs="Develope Book";
+AccountSafety="Account and Safety";
+MessageNotification="Thông báo mới";
+ChangePassword="Đổi mật khẩu";
+PrivacySettings="Privacy settings";
+CurrentVersion="phiên bản hiện thời";
+HelpFeedback="Trợ giúp và phản hồi";
+AboutWFChat="About 168";
+UserAgreement="User agreement";
+PrivacyPolicy="Privacy policy";
+Complain="Complain";
+Blacklist="Black list";
+Logout="Đăng xuất";
+Moments="Moments";
+Wallet="Wallet";
+Login="Đăng Nhập";
+ChangeLaunage="Chọn ngôn ngữ";
+Account="Tài Khoản";
+Password="Mật khẩu";
+Register="Đăng ký";
+ConfirmPassword="Xác nhận mật khẩu";
+WalletBalance="The wallet balance";
+CreateWallet="Create wallet";
+Recharge="Recharge";
+AccountPlaceholder="Vui lòng nhập số tài khoản";
+PasswordPlaceholder="Vui lòng nhập mật khẩu";
+ConfirmPasswordPlaceholder="Xin xác nhận lại mật khẩu";
+Cancel="hủy";
+ComingSoon="Sắp đến rồi.";
+GentingClub="Câu";
+Language="Ngôn ngữ";
+QuietMode="Chế độ tĩnh";
+
+GamePoints="Điểm Chơi";
+Balance="Điểm Hồng Bao";
+LoginID="ID đăng nhập";
+Introducer="Người giới thiệu";
+PhoneNum="Số điện thoại";
+Email="Địa chỉ email";
+LogOutWarning="Không có dữ liệu lịch sử nào bị xoá sau khi thoát. Bạn vẫn có thể dùng tài khoản này khi đăng nhập vào lần tới.";
+AgainPassword="Xác nhận mật khẩu";
+RegisterCode="Mã mời";
+RegisterCodePlaceHolder="Hãy nhập mã thư mời.";
+Chongzhikefu="Phục vụ khách hàng";
+Tixiankefu="Dịch vụ rút tiền mặt";
+Tongyongzhikefu="Dịch vụ khách hàng";
+InvitationCode="Mã mời";
+
+Ok="xác định";
+RedBagList="Danh sách phong bì đỏ";
+OriginalPassword="Mật khẩu cũ";
+NewPassword="Mật khẩu mới";
+UserName="Tên thật";
+BankName="Tên ngân hàng";
+
+"ExcnangeToMoney"="Tiêu đề:";
+"Recharge"="Nạp";
+"Withdrawal"="Rút";
+"Inputintegral"="Chất nhập";
+"InputMoney"="Nhập số Point";
+
+"Card Num" = "Card";
+"SelectCard" = "Select Card";
+"SelectImage" = "Chụp màn hình thanh toán";
+"Submit"="Gởi";
+"MoneyRecords"="Mục lục";
+"nameHint"="Tên người dùng phải chứa ít nhất bốn chữ số và thư Anh";
+"passHint"="Mật khẩu phải có ít nhất sáu con số và thư Anh.";
+ICodeError ="Lỗi mã mời";
+Refresh = "Cập nhật";
+BindCard="Thẻ ngân hàng";
+ReBindCard="Thiết lập thẻ ngân hàng";
+
+
+created_time="Khởi động:";
+groupId="ID phòng:";
+bankerName="Ngân hàng";
+bonusId="ID hongbao:";
+banker="Banker";
+status="Khớp bang";
+bankerBonus="Mở hongbao:";
+
+gameId="ID game:";
+bet="Đặt cược:";
+bonus="Mở hongbao:";
+type="Loại cược:";
+userId="Người dùng";
+win="Thắng/thua:";
+username="Tên tài khoản:";
+tb="Nhà thầu chính";
+online="Nạp trực tuyến";
+zhuangwinlose="Thắng/thua:";
+Agree="Đồng ý!";
+DissAgree="Không đồng ý";
